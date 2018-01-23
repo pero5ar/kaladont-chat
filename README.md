@@ -2,7 +2,7 @@
 
 A spin-off on the soicket.io getting started chat tutorial (https://socket.io/get-started/chat).
 
-The app uses the same functionalities presented in the tutorial, with added logic for the Kaladont game, and the client is built with React.js
+The app uses the same functionalities presented in the tutorial, with added logic for the Kaladont game, and the client is built with React.
 
 ---
 
